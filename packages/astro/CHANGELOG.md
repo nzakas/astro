@@ -1,5 +1,11 @@
 # astro
 
+## 2.0.1
+
+### Patch Changes
+
+- [#5962](https://github.com/withastro/astro/pull/5962) [`46b6e1426`](https://github.com/withastro/astro/commit/46b6e14265f81ffbf1a7511909d5a9954160b504) Thanks [@MoustaphaDev](https://github.com/MoustaphaDev)! - Fix Content Collections not loading config file when there are spaces in the folder tree
+
 ## 2.0.0
 
 > **Note**
